@@ -1,0 +1,1 @@
+- Requires pyfiglet and mpmath (installed via pip with `pip install pyfiglet` and `pip install mpmath`)
